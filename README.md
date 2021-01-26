@@ -1,4 +1,5 @@
 # spotify-website-clone
+Use the Continue with 1Key button to log in
 
 ## Project setup
 ```
